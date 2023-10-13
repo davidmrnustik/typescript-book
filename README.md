@@ -1,6 +1,6 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGD_0i6L48hucTiiyhb5QzQ?style=social)](https://www.youtube.com/@basarat)
 
-TypeScript Deep Dive
+TypeScript Deep Dive.
 =======
 
 I've been looking at the issues that turn up commonly when people start using TypeScript. This is based on the lessons from [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) and general engagement with the [TypeScript community](https://github.com/TypeStrong/). You can [follow for updates](https://twitter.com/basarat) and [don't forget to ★ on GitHub](https://github.com/basarat/typescript-book) 🌹
